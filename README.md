@@ -1,6 +1,6 @@
-# meat-mark
+# *Название проекта*
 
-> Верстка сайта Бессновская марка. Используется [webpack-BEM-Vue](https://github.com/HummerHead87/webpack-BEM-Vue) бойлерплейт.
+> Верстка сайта *Название проекта*. Используется [webpack-BEM-Vue](https://github.com/HummerHead87/webpack-BEM-Vue) бойлерплейт.
 
 ## Установка и запуск
 
